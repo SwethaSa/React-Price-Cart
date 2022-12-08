@@ -1,0 +1,152 @@
+[
+  {
+    "plan": "FREE",
+    "price": "$0",
+    "month": "/month",
+    "id": "1",
+    "text": [
+      { "icon": "bi bi-check", "advantages": "Single User", "display": "text" },
+
+      { "icon": "bi bi-check", "advantages": "5GB Storage", "display": "text" },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Unlimited Public Projects",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Community Access",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-x",
+        "advantages": "Unlimited Private Projects",
+        "display": "text-muted"
+      },
+
+      {
+        "icon": "bi bi-x",
+        "advantages": "Dedicated Phone Support",
+        "display": "text-muted"
+      },
+
+      {
+        "icon": "bi bi-x",
+        "advantages": "Free Subdomain",
+        "display": "text-muted"
+      },
+
+      {
+        "icon": "bi bi-x",
+        "advantages": "Monthly Status Reports",
+        "display": "text-muted"
+      }
+    ]
+  },
+
+  {
+    "plan": "PLUS",
+    "price": "$9",
+    "month": "/month",
+    "id": "2",
+    "text": [
+      { "icon": "bi bi-check", "advantages": "Single User", "display": "text" },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "50GB Storage",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Unlimited Public Projects",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Community Access",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Unlimited Private Projects",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Dedicated Phone Support",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Free Subdomain",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-x",
+        "advantages": "Monthly Status Reports",
+        "display": "text-muted"
+      }
+    ]
+  },
+  {
+    "plan": "PRO",
+    "price": "$49",
+    "month": "/month",
+    "id": "3",
+    "text": [
+      { "icon": "bi bi-check", "advantages": "Single User", "display": "text" },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "150GB Storage",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Unlimited Public Projects",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Community Access",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Unlimited Private Projects",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Dedicated Phone Support",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Unlimited Free Subdomains",
+        "display": "text"
+      },
+
+      {
+        "icon": "bi bi-check",
+        "advantages": "Monthly Status Reports",
+        "display": "text"
+      }
+    ]
+  }
+]
